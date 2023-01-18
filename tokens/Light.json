@@ -1,0 +1,228 @@
+{
+  "color": {
+    "text": {
+      "action": {
+        "value": "{color.sky.50}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{color.grass.50}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{color.rose.50}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.lemon.60}",
+        "type": "color"
+      },
+      "neutral": {
+        "primary": {
+          "value": "{color.absolute.black}",
+          "type": "color",
+          "description": "Used for basic $text and $title"
+        },
+        "secondary": {
+          "value": "{color.steel-transparent.40}",
+          "type": "color",
+          "description": "Secondary text color"
+        },
+        "tertiary": {
+          "value": "{color.steel-transparent.80}",
+          "type": "color",
+          "description": "Subtle color paired with $text"
+        },
+        "strong": {
+          "value": "{color.absolute.white}",
+          "type": "color",
+          "description": "Used for contrast text on colored background"
+        }
+      }
+    },
+    "icon": {
+      "action": {
+        "value": "{color.sky.50}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{color.grass.50}",
+        "type": "color",
+        "description": "Только для Success иконок"
+      },
+      "negative": {
+        "value": "{color.rose.50}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.lemon.60}",
+        "type": "color"
+      },
+      "neutral": {
+        "primary": {
+          "value": "{color.absolute.black}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.steel-transparent.40}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.steel-transparent.80}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{color.absolute.white}",
+          "type": "color"
+        }
+      }
+    },
+    "bg": {
+      "neutral": {
+        "primary": {
+          "value": "{color.absolute.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.steel-transparent.99}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.steel-transparent.95}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{color.steel-transparent.90}",
+          "type": "color"
+        },
+        "five": {
+          "value": "{color.steel-transparent.70}",
+          "type": "color"
+        },
+        "six": {
+          "value": "{color.steel-transparent.50}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{color.absolute.black}",
+          "type": "color"
+        }
+      },
+      "action": {
+        "primary": {
+          "value": "{color.sky.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.sky.99}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "primary": {
+          "value": "{color.grass.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.grass.90}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "primary": {
+          "value": "{color.rose.60}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.rose.90}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "primary": {
+          "value": "{color.lemon.60}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.lemon.90}",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "action": {
+        "value": "{color.sky.50}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{color.grass.50}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{color.rose.50}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.lemon.60}",
+        "type": "color"
+      },
+      "neutral": {
+        "primary": {
+          "value": "{color.steel-transparent.90}",
+          "type": "color",
+          "description": "Subtle border paired with $bg"
+        },
+        "secondary": {
+          "value": "{color.steel-transparent.80}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.steel-transparent.70}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{color.steel-transparent.60}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{color.steel-transparent.10}",
+          "type": "color"
+        }
+      }
+    },
+    "layer": {
+      "overlay": {
+        "value": "{color.steel-transparent.50}",
+        "type": "color",
+        "description": "Background overlay"
+      },
+      "surface": {
+        "value": "{color.steel-transparent.99}",
+        "type": "color",
+        "description": "Material on floors"
+      },
+      "floor": {
+        "0": {
+          "value": "{color.steel.99}",
+          "type": "color",
+          "description": "Base background underneath everything"
+        },
+        "1": {
+          "value": "{color.absolute.white}",
+          "type": "color",
+          "description": "Background for blocks paired with $floor.0 and $floor.2 on it"
+        },
+        "2": {
+          "value": "{color.absolute.white}",
+          "type": "color",
+          "description": "Background for blocks paired with $floor.1 and $floor.3"
+        },
+        "3": {
+          "value": "{color.absolute.white}",
+          "type": "color",
+          "description": "Background for blocks on $floor.2"
+        }
+      }
+    }
+  }
+}
