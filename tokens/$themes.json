@@ -4,7 +4,7 @@
     "name": "Dark",
     "selectedTokenSets": {
       "Global": "source",
-      "Core palette": "enabled",
+      "Core palette": "source",
       "Dark": "enabled",
       "Additional": "enabled"
     },
@@ -57,7 +57,7 @@
     "name": "Light",
     "selectedTokenSets": {
       "Global": "source",
-      "Core palette": "enabled",
+      "Core palette": "source",
       "Light": "enabled",
       "Additional": "enabled"
     },
