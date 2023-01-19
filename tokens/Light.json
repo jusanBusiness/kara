@@ -224,5 +224,68 @@
         }
       }
     }
+  },
+  "flat": {
+    "value": [
+      {
+        "color": "#061b330a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 2,
+        "blur": 4,
+        "spread": 0
+      },
+      {
+        "color": "#061b3305",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 4,
+        "spread": 0
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "card": {
+    "value": [
+      {
+        "color": "#061b3314",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 4,
+        "blur": 8,
+        "spread": 0
+      },
+      {
+        "color": "#061b330a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 8,
+        "spread": 0
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "fixed": {
+    "value": [
+      {
+        "color": "#061b3329",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 8,
+        "blur": 16,
+        "spread": 0
+      },
+      {
+        "color": "#061b3314",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 16,
+        "spread": 0
+      }
+    ],
+    "type": "boxShadow"
   }
 }
