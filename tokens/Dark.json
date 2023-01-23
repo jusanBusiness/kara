@@ -80,7 +80,7 @@
     "bg": {
       "neutral": {
         "primary": {
-          "value": "{color.absolute.white}",
+          "value": "{color.cloud-transparent.95}",
           "type": "color"
         },
         "secondary": {
