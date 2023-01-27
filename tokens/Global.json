@@ -179,7 +179,7 @@
       "lead": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "500",
+          "fontWeight": "400",
           "lineHeight": "24px",
           "fontSize": "18px",
           "letterSpacing": "0px",
@@ -191,7 +191,7 @@
       "text": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "500",
+          "fontWeight": "400",
           "lineHeight": "24px",
           "fontSize": "16px",
           "letterSpacing": "0px",
@@ -203,7 +203,7 @@
       "subtle": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "500",
+          "fontWeight": "400",
           "lineHeight": "20px",
           "fontSize": "14px",
           "letterSpacing": "0px",
@@ -215,7 +215,7 @@
       "hint": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "500",
+          "fontWeight": "400",
           "lineHeight": "16px",
           "fontSize": "12px",
           "letterSpacing": "0px",
@@ -229,7 +229,7 @@
       "lead": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "600",
+          "fontWeight": "500",
           "lineHeight": "24px",
           "fontSize": "18px",
           "letterSpacing": "0px",
@@ -241,7 +241,7 @@
       "text": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "600",
+          "fontWeight": "500",
           "lineHeight": "24px",
           "fontSize": "16px",
           "letterSpacing": "0px",
@@ -253,7 +253,7 @@
       "subtle": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "600",
+          "fontWeight": "500",
           "lineHeight": "20px",
           "fontSize": "14px",
           "letterSpacing": "0px",
@@ -267,7 +267,7 @@
       "lead": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "700",
+          "fontWeight": "600",
           "lineHeight": "24px",
           "fontSize": "18px",
           "letterSpacing": "0px",
@@ -279,7 +279,7 @@
       "text": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "700",
+          "fontWeight": "600",
           "lineHeight": "24px",
           "fontSize": "16px",
           "letterSpacing": "0px",
@@ -291,7 +291,7 @@
       "subtle": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "700",
+          "fontWeight": "600",
           "lineHeight": "18px",
           "fontSize": "14px",
           "letterSpacing": "0px",
@@ -303,7 +303,7 @@
       "hint": {
         "value": {
           "fontFamily": "JB Sans",
-          "fontWeight": "700",
+          "fontWeight": "600",
           "lineHeight": "16px",
           "fontSize": "12px",
           "letterSpacing": "0px",
