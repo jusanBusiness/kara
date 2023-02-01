@@ -176,19 +176,7 @@
       }
     },
     "paragraph": {
-      "lead": {
-        "value": {
-          "fontFamily": "JB Sans",
-          "fontWeight": "400",
-          "lineHeight": "24px",
-          "fontSize": "18px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0px",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography"
-      },
-      "text": {
+      "major": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "400",
@@ -223,60 +211,8 @@
           "paragraphIndent": "0px"
         },
         "type": "typography"
-      }
-    },
-    "action": {
-      "lead": {
-        "value": {
-          "fontFamily": "JB Sans",
-          "fontWeight": "500",
-          "lineHeight": "24px",
-          "fontSize": "18px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography"
       },
-      "text": {
-        "value": {
-          "fontFamily": "JB Sans",
-          "fontWeight": "500",
-          "lineHeight": "24px",
-          "fontSize": "16px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0px",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography"
-      },
-      "subtle": {
-        "value": {
-          "fontFamily": "JB Sans",
-          "fontWeight": "500",
-          "lineHeight": "20px",
-          "fontSize": "14px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0px",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography"
-      }
-    },
-    "accent": {
-      "lead": {
-        "value": {
-          "fontFamily": "JB Sans",
-          "fontWeight": "600",
-          "lineHeight": "24px",
-          "fontSize": "18px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0px",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography"
-      },
-      "text": {
+      "major-accent": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
@@ -288,7 +224,7 @@
         },
         "type": "typography"
       },
-      "subtle": {
+      "subtle-accent": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
@@ -300,12 +236,38 @@
         },
         "type": "typography"
       },
-      "hint": {
+      "hint-accent": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
           "lineHeight": "16px",
           "fontSize": "12px",
+          "letterSpacing": "0px",
+          "paragraphSpacing": "0px",
+          "paragraphIndent": "0px"
+        },
+        "type": "typography"
+      }
+    },
+    "action": {
+      "major": {
+        "value": {
+          "fontFamily": "JB Sans",
+          "fontWeight": "500",
+          "lineHeight": "24px",
+          "fontSize": "16px",
+          "letterSpacing": "0px",
+          "paragraphSpacing": "0px",
+          "paragraphIndent": "0px"
+        },
+        "type": "typography"
+      },
+      "subtle": {
+        "value": {
+          "fontFamily": "JB Sans",
+          "fontWeight": "500",
+          "lineHeight": "20px",
+          "fontSize": "14px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
           "paragraphIndent": "0px"
@@ -314,20 +276,7 @@
       }
     },
     "mono": {
-      "lead": {
-        "value": {
-          "fontFamily": "JB Sans Mono",
-          "fontWeight": "400",
-          "lineHeight": "24px",
-          "fontSize": "18px",
-          "letterSpacing": "0px",
-          "paragraphSpacing": "0px",
-          "paragraphIndent": "0px"
-        },
-        "type": "typography",
-        "description": "font-feature-settings: 'zero' on;"
-      },
-      "text": {
+      "major": {
         "value": {
           "fontFamily": "JB Sans Mono",
           "fontWeight": "400",
@@ -345,6 +294,44 @@
           "fontWeight": "400",
           "lineHeight": "18px",
           "fontSize": "14px",
+          "letterSpacing": "0px",
+          "paragraphSpacing": "0px",
+          "paragraphIndent": "0px"
+        },
+        "type": "typography"
+      }
+    },
+    "base": {
+      "major": {
+        "value": {
+          "fontFamily": "JB Sans",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "fontSize": "16px",
+          "letterSpacing": "0px",
+          "paragraphSpacing": "0px",
+          "paragraphIndent": "0px"
+        },
+        "type": "typography"
+      },
+      "subtle": {
+        "value": {
+          "fontFamily": "JB Sans",
+          "fontWeight": "400",
+          "lineHeight": "20px",
+          "fontSize": "14px",
+          "letterSpacing": "0px",
+          "paragraphSpacing": "0px",
+          "paragraphIndent": "0px"
+        },
+        "type": "typography"
+      },
+      "hint": {
+        "value": {
+          "fontFamily": "JB Sans",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "fontSize": "12px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
           "paragraphIndent": "0px"
