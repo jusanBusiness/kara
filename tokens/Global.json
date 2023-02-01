@@ -123,6 +123,10 @@
     "2,5": {
       "value": "10px",
       "type": "borderRadius"
+    },
+    "50%": {
+      "value": "50%",
+      "type": "borderRadius"
     }
   },
   "type": {
@@ -228,7 +232,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
-          "lineHeight": "18px",
+          "lineHeight": "20px",
           "fontSize": "14px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -254,7 +258,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "500",
-          "lineHeight": "24px",
+          "lineHeight": "16px",
           "fontSize": "16px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -266,7 +270,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "500",
-          "lineHeight": "20px",
+          "lineHeight": "14px",
           "fontSize": "14px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -280,7 +284,7 @@
         "value": {
           "fontFamily": "JB Sans Mono",
           "fontWeight": "400",
-          "lineHeight": "24px",
+          "lineHeight": "16px",
           "fontSize": "16px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -292,7 +296,7 @@
         "value": {
           "fontFamily": "JB Sans Mono",
           "fontWeight": "400",
-          "lineHeight": "18px",
+          "lineHeight": "14px",
           "fontSize": "14px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -306,7 +310,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "400",
-          "lineHeight": "24px",
+          "lineHeight": "16px",
           "fontSize": "16px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -318,7 +322,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "400",
-          "lineHeight": "20px",
+          "lineHeight": "14px",
           "fontSize": "14px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
@@ -330,7 +334,7 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "400",
-          "lineHeight": "16px",
+          "lineHeight": "12px",
           "fontSize": "12px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
