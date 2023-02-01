@@ -211,9 +211,9 @@
       "type.paragraph.major": "S:8ea5f8ce451a2773556cc4f984c3b0323a4c4dec,",
       "type.action.major": "S:72b2f948026eff19b065d9f25fc17066e6cbdfd7,",
       "type.mono.major": "S:0d8a815e471f8ac8e298838270495b143f484762,",
-      "type.paragraph.major-accent": "S:520a1638ce83637a284b630a1000a592537b751a,",
-      "type.paragraph.subtle-accent": "S:65195f5db055ef0ca15717653e1cc716b2c80350,",
-      "type.paragraph.hint-accent": "S:2f75894ce3de7ab7eaffbd4a5c2080f163b02f22,"
+      "type.paragraph.accent-major": "S:520a1638ce83637a284b630a1000a592537b751a,",
+      "type.paragraph.accent-subtle": "S:65195f5db055ef0ca15717653e1cc716b2c80350,",
+      "type.paragraph.accent-hint": "S:2f75894ce3de7ab7eaffbd4a5c2080f163b02f22,"
     }
   }
 ]

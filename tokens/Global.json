@@ -216,7 +216,7 @@
         },
         "type": "typography"
       },
-      "major-accent": {
+      "accent-major": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
@@ -228,7 +228,7 @@
         },
         "type": "typography"
       },
-      "subtle-accent": {
+      "accent-subtle": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
@@ -240,7 +240,7 @@
         },
         "type": "typography"
       },
-      "hint-accent": {
+      "accent-hint": {
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
