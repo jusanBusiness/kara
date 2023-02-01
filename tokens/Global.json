@@ -170,8 +170,8 @@
         "value": {
           "fontFamily": "JB Sans",
           "fontWeight": "600",
-          "lineHeight": "38px",
-          "fontSize": "32px",
+          "lineHeight": "28px",
+          "fontSize": "24px",
           "letterSpacing": "0px",
           "paragraphSpacing": "0px",
           "paragraphIndent": "0px"
