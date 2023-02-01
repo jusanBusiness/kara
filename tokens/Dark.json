@@ -80,15 +80,15 @@
     "bg": {
       "neutral": {
         "primary": {
-          "value": "{color.absolute.white}",
+          "value": "{color.cloud-transparent.95}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.steel.95}",
+          "value": "{color.cloud-transparent.90}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{color.steel.99}",
+          "value": "{color.cloud-transparent.80}",
           "type": "color"
         },
         "strong": {
