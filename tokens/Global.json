@@ -380,6 +380,38 @@
     "10": {
       "value": "40px",
       "type": "sizing"
+    },
+    "11": {
+      "value": "44px",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "48px",
+      "type": "sizing"
+    },
+    "14": {
+      "value": "56px",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "64px",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "80px",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "96px",
+      "type": "sizing"
+    },
+    "28": {
+      "value": "112px",
+      "type": "sizing"
+    },
+    "32": {
+      "value": "128px",
+      "type": "sizing"
     }
   },
   "grid": {
