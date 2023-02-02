@@ -468,5 +468,19 @@
         "type": "other"
       }
     }
+  },
+  "border": {
+    "thin": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "medium": {
+      "value": "1.5px",
+      "type": "borderWidth"
+    },
+    "thick": {
+      "value": "2px",
+      "type": "borderWidth"
+    }
   }
 }
