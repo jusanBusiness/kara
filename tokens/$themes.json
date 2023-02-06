@@ -213,7 +213,10 @@
       "type.mono.major": "S:0d8a815e471f8ac8e298838270495b143f484762,",
       "type.paragraph.accent-major": "S:520a1638ce83637a284b630a1000a592537b751a,",
       "type.paragraph.accent-subtle": "S:65195f5db055ef0ca15717653e1cc716b2c80350,",
-      "type.paragraph.accent-hint": "S:2f75894ce3de7ab7eaffbd4a5c2080f163b02f22,"
+      "type.paragraph.accent-hint": "S:2f75894ce3de7ab7eaffbd4a5c2080f163b02f22,",
+      "shadow.flat": "S:7f3ee68a8ad8e4d170bdd745710e1508d2df02d1,",
+      "shadow.card": "S:a235d1636239ac63f3e4667640527f83e3c57699,",
+      "shadow.fixed": "S:af26161a46720616402854b76508882f8316acd8,"
     }
   }
 ]
