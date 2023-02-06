@@ -3,7 +3,7 @@
     "id": "565e9112abde4592912514d521bb5b5f48a56834",
     "name": "Dark",
     "selectedTokenSets": {
-      "Global": "source",
+      "Global": "enabled",
       "Core palette": "source",
       "Dark": "enabled",
       "Additional": "enabled"
@@ -56,7 +56,7 @@
     "id": "bf3a9bcfe9d9f142d8e70ebddc0a03266e130b01",
     "name": "Light",
     "selectedTokenSets": {
-      "Global": "source",
+      "Global": "enabled",
       "Core palette": "source",
       "Light": "enabled",
       "Additional": "enabled"
