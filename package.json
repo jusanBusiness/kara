@@ -1,0 +1,18 @@
+{
+  "name": "kara",
+  "version": "0.0.1",
+  "description": "Kara tokens",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeldan/kara.git"
+  },
+  "author": "Eldan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeldan/kara/issues"
+  },
+  "homepage": "https://github.com/eeldan/kara#readme"
+}
