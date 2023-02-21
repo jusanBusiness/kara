@@ -416,6 +416,11 @@
     "32": {
       "value": "128px",
       "type": "sizing"
+    },
+    "3,5": {
+      "value": "14px",
+      "type": "sizing",
+      "description": "21.02.23 We use it only for scroll-bar"
     }
   },
   "grid": {
