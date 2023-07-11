@@ -2,41 +2,138 @@
   "color": {
     "content": {
       "action": {
-        "value": "{color.sky.50}",
-        "type": "color"
+        "primary": {
+          "default": {
+            "value": "{color.rose.60}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.content.action.primary.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
       },
       "positive": {
-        "value": "{color.grass.50}",
-        "type": "color"
+        "primary": {
+          "default": {
+            "value": "{color.grass.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          }
+        }
       },
       "negative": {
-        "value": "{color.rose.50}",
-        "type": "color"
+        "primary": {
+          "default": {
+            "value": "{color.rose.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          }
+        }
       },
       "warning": {
-        "value": "{color.lemon.60}",
-        "type": "color"
+        "primary": {
+          "default": {
+            "value": "{color.lemon.60}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          }
+        }
       },
       "neutral": {
         "primary": {
-          "value": "{color.absolute.black}",
-          "type": "color",
-          "description": "Used for basic $text and $title"
+          "default": {
+            "value": "{color.absolute.black}",
+            "type": "color",
+            "description": "Used for basic $text and $title"
+          },
+          "hover": {
+            "value": "color.content.neutral.primary.default",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "#",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#",
+            "type": "color"
+          }
         },
         "secondary": {
-          "value": "{color.steel-transparent.40}",
-          "type": "color",
-          "description": "Secondary text color"
+          "default": {
+            "value": "{color.steel-transparent.40}",
+            "type": "color",
+            "description": "Secondary text color"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "#",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#",
+            "type": "color"
+          }
         },
         "tertiary": {
-          "value": "{color.steel-transparent.80}",
-          "type": "color",
-          "description": "Subtle color paired with $text"
+          "default": {
+            "value": "{color.steel-transparent.80}",
+            "type": "color",
+            "description": "Subtle color paired with $text"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "#",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#",
+            "type": "color"
+          }
         },
-        "strong": {
-          "value": "{color.absolute.white}",
-          "type": "color",
-          "description": "Used for contrast text on colored background"
+        "static": {
+          "default": {
+            "value": "{color.absolute.white}",
+            "type": "color",
+            "description": "Used for contrast text on colored background"
+          },
+          "hover": {
+            "value": "#",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "#",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#",
+            "type": "color"
+          }
         }
       }
     },

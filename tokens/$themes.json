@@ -6,7 +6,8 @@
       "Global": "enabled",
       "Core palette": "source",
       "Dark": "enabled",
-      "Additional": "enabled"
+      "Additional": "enabled",
+      "Light_Copy": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:fa953bdf6d63abc067fb9eba5c8fb4d4b60f1750,",
@@ -76,7 +77,8 @@
       "Global": "enabled",
       "Core palette": "source",
       "Light": "enabled",
-      "Additional": "enabled"
+      "Additional": "enabled",
+      "Light_Copy": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:71f49889affc20b0cc39fbb93580c9093aecd5d4,",
