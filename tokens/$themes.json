@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "Global": "enabled",
       "Core palette": "source",
-      "Dark": "enabled",
       "Additional": "enabled"
     },
     "$figmaStyleReferences": {
@@ -75,7 +74,6 @@
     "selectedTokenSets": {
       "Global": "enabled",
       "Core palette": "source",
-      "Light": "enabled",
       "Additional": "enabled"
     },
     "$figmaStyleReferences": {
