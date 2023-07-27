@@ -116,12 +116,12 @@
       "value": "20px",
       "type": "borderRadius"
     },
-    "0,5": {
-      "value": "2px",
-      "type": "borderRadius"
-    },
     "2,5": {
       "value": "10px",
+      "type": "borderRadius"
+    },
+    "0,5": {
+      "value": "2px",
       "type": "borderRadius"
     },
     "circle": {
@@ -282,7 +282,7 @@
     "mono": {
       "major": {
         "value": {
-          "fontFamily": "JB Sans Mono",
+          "fontFamily": "JB Mono",
           "fontWeight": "400",
           "lineHeight": "20px",
           "fontSize": "16px",
@@ -294,7 +294,7 @@
       },
       "subtle": {
         "value": {
-          "fontFamily": "JB Sans Mono",
+          "fontFamily": "JB Mono",
           "fontWeight": "400",
           "lineHeight": "16px",
           "fontSize": "14px",
