@@ -2,7 +2,8 @@
   "tokenSetOrder": [
     "Global",
     "Core palette",
-    "Light",
+    "Theme/Light",
+    "Theme/Dark",
     "Additional"
   ]
 }
