@@ -873,7 +873,7 @@
         },
         "tetriary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.blue.20}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1023,7 +1023,7 @@
         },
         "tetriary": {
           "default": {
-            "value": "{color.green.20}",
+            "value": "{color.green.30}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1174,7 +1174,7 @@
         },
         "tetriary": {
           "default": {
-            "value": "{color.red.20}",
+            "value": "{color.red.30}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1326,7 +1326,7 @@
         },
         "tetriary": {
           "default": {
-            "value": "{color.yellow.10}",
+            "value": "{color.yellow.20}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
