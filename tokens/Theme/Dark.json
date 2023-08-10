@@ -241,7 +241,8 @@
         "tetriary": {
           "default": {
             "value": "{color.green.20}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {}
           },
           "hover": {
             "value": "{color.content.positive.tetriary.default}",
@@ -526,7 +527,8 @@
         "tetriary": {
           "default": {
             "value": "{color.yellow.10}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {}
           },
           "hover": {
             "value": "{color.content.warning.tetriary.default}",
@@ -619,13 +621,13 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.cold-grey.80}",
+            "value": "{color.cold-grey.30}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.7",
+                  "value": "0.8",
                   "space": "lch"
                 }
               }
@@ -873,7 +875,15 @@
           "default": {
             "value": "{color.blue.10}",
             "type": "color",
-            "$extensions": {}
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "hover": {
             "value": "{color.bg.action.tetriary.default}",
@@ -1014,7 +1024,16 @@
         "tetriary": {
           "default": {
             "value": "{color.green.20}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "hover": {
             "value": "{color.bg.positive.tetriary.default}",
@@ -1156,7 +1175,16 @@
         "tetriary": {
           "default": {
             "value": "{color.red.20}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "hover": {
             "value": "{color.bg.negative.tetriary.default}",
@@ -1299,7 +1327,16 @@
         "tetriary": {
           "default": {
             "value": "{color.yellow.10}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "hover": {
             "value": "{color.bg.warning.tetriary.default}",
