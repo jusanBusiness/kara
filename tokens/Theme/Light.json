@@ -96,14 +96,14 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.blue.10}",
             "type": "color",
             "$extensions": {}
           },
           "hover": {
-            "value": "{color.content.action.tetriary.default}",
+            "value": "{color.content.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -117,7 +117,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.tetriary.default}",
+            "value": "{color.content.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -131,7 +131,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.tetriary.default}",
+            "value": "{color.content.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -238,13 +238,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.green.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.positive.tetriary.default}",
+            "value": "{color.content.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -258,7 +258,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.positive.tetriary.default}",
+            "value": "{color.content.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -272,7 +272,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.positive.tetriary.default}",
+            "value": "{color.content.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -380,13 +380,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.red.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.negative.tetriary.default}",
+            "value": "{color.content.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -400,7 +400,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.negative.tetriary.default}",
+            "value": "{color.content.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -414,7 +414,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.negative.tetriary.default}",
+            "value": "{color.content.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -523,13 +523,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.yellow.10}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.warning.tetriary.default}",
+            "value": "{color.content.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -543,7 +543,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.warning.tetriary.default}",
+            "value": "{color.content.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -557,7 +557,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.warning.tetriary.default}",
+            "value": "{color.content.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -671,7 +671,7 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.cold-grey.40}",
             "type": "color",
@@ -686,7 +686,7 @@
             }
           },
           "hover": {
-            "value": "{color.content.neutral.tetriary.default}",
+            "value": "{color.content.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -699,7 +699,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.neutral.tetriary.default}",
+            "value": "{color.content.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -712,7 +712,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.neutral.tetriary.default}",
+            "value": "{color.content.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -923,14 +923,14 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.blue.10}",
             "type": "color",
             "$extensions": {}
           },
           "hover": {
-            "value": "{color.bg.action.tetriary.default}",
+            "value": "{color.bg.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -944,7 +944,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.action.tetriary.default}",
+            "value": "{color.bg.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -958,7 +958,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.action.tetriary.default}",
+            "value": "{color.bg.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1065,13 +1065,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.green.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.positive.tetriary.default}",
+            "value": "{color.bg.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1085,7 +1085,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.positive.tetriary.default}",
+            "value": "{color.bg.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1099,7 +1099,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.positive.tetriary.default}",
+            "value": "{color.bg.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1207,13 +1207,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.red.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.negative.tetriary.default}",
+            "value": "{color.bg.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1227,7 +1227,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.negative.tetriary.default}",
+            "value": "{color.bg.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1241,7 +1241,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.negative.tetriary.default}",
+            "value": "{color.bg.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1350,13 +1350,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.yellow.10}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.warning.tetriary.default}",
+            "value": "{color.bg.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1370,7 +1370,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.warning.tetriary.default}",
+            "value": "{color.bg.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1384,7 +1384,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.warning.tetriary.default}",
+            "value": "{color.bg.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1498,7 +1498,7 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.cold-grey.40}",
             "type": "color",
@@ -1513,7 +1513,7 @@
             }
           },
           "hover": {
-            "value": "{color.bg.neutral.tetriary.default}",
+            "value": "{color.bg.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1526,7 +1526,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.neutral.tetriary.default}",
+            "value": "{color.bg.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1539,7 +1539,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.neutral.tetriary.default}",
+            "value": "{color.bg.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1698,14 +1698,14 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.blue.10}",
             "type": "color",
             "$extensions": {}
           },
           "hover": {
-            "value": "{color.border.action.tetriary.default}",
+            "value": "{color.border.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1719,7 +1719,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.action.tetriary.default}",
+            "value": "{color.border.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1733,7 +1733,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.action.tetriary.default}",
+            "value": "{color.border.action.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1840,13 +1840,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.green.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.border.positive.tetriary.default}",
+            "value": "{color.border.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1860,7 +1860,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.positive.tetriary.default}",
+            "value": "{color.border.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1874,7 +1874,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.positive.tetriary.default}",
+            "value": "{color.border.positive.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1982,13 +1982,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.red.20}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.border.negative.tetriary.default}",
+            "value": "{color.border.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2002,7 +2002,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.negative.tetriary.default}",
+            "value": "{color.border.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2016,7 +2016,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.negative.tetriary.default}",
+            "value": "{color.border.negative.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2125,13 +2125,13 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.yellow.10}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.border.warning.tetriary.default}",
+            "value": "{color.border.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2145,7 +2145,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.warning.tetriary.default}",
+            "value": "{color.border.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2159,7 +2159,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.warning.tetriary.default}",
+            "value": "{color.border.warning.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2273,7 +2273,7 @@
             }
           }
         },
-        "tetriary": {
+        "tertiary": {
           "default": {
             "value": "{color.cold-grey.40}",
             "type": "color",
@@ -2288,7 +2288,7 @@
             }
           },
           "hover": {
-            "value": "{color.border.neutral.tetriary.default}",
+            "value": "{color.border.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2301,7 +2301,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.neutral.tetriary.default}",
+            "value": "{color.border.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2314,7 +2314,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.neutral.tetriary.default}",
+            "value": "{color.border.neutral.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
