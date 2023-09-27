@@ -1,9 +1,10 @@
 {
   "tokenSetOrder": [
     "Global",
-    "Core palette",
     "Theme/Light",
     "Theme/Dark",
-    "Additional"
+    "Additional",
+    "Type/Desktop",
+    "Type/Mobile"
   ]
 }

@@ -5,7 +5,6 @@
     "group": "Theme",
     "selectedTokenSets": {
       "Global": "source",
-      "Core palette": "source",
       "Theme/Light": "enabled"
     },
     "$figmaStyleReferences": {
@@ -619,7 +618,6 @@
     "name": "Dark",
     "selectedTokenSets": {
       "Global": "source",
-      "Core palette": "source",
       "Theme/Dark": "enabled"
     },
     "$figmaStyleReferences": {
@@ -915,8 +913,7 @@
     "name": "Global",
     "group": "Core",
     "selectedTokenSets": {
-      "Global": "enabled",
-      "Core palette": "enabled"
+      "Global": "enabled"
     },
     "$figmaStyleReferences": {
       "color.brand.orange": "S:6c9e1741ef9ab7b9a9771566b66eb66b2f860c6e,",

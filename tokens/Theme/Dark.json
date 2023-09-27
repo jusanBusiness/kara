@@ -2785,5 +2785,11 @@
       ],
       "type": "boxShadow"
     }
+  },
+  "font-size": {
+    "1": {
+      "value": "14px",
+      "type": "fontSizes"
+    }
   }
 }
