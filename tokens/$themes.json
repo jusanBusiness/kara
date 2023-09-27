@@ -1233,5 +1233,25 @@
     },
     "$figmaCollectionId": "VariableCollectionId:464:28663",
     "$figmaModeId": "464:8"
+  },
+  {
+    "id": "dd6a205521c51ccc88dbf729cb8ee9503bb2ac3a",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Type/Desktop": "enabled"
+    },
+    "group": "Type"
+  },
+  {
+    "id": "5ad72e8bd30c39cdd5df4fa3f14a9bbd33ebecf3",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Type/Mobile": "enabled"
+    },
+    "group": "Type"
   }
 ]
