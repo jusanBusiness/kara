@@ -705,7 +705,7 @@
   "grid": {
     "gap": {
       "lg": {
-        "value": "24px",
+        "value": "20px",
         "type": "other"
       },
       "md": {
@@ -725,7 +725,7 @@
           "description": "Don't change this token"
         },
         "md": {
-          "value": "32px",
+          "value": "24px",
           "type": "other"
         },
         "sm": {
@@ -734,7 +734,7 @@
         }
       },
       "max-width": {
-        "value": "1200px",
+        "value": "796px",
         "type": "other"
       }
     },

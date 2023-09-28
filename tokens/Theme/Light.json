@@ -5,8 +5,7 @@
         "primary": {
           "default": {
             "value": "{color.blue.70}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.content.action.primary.default}",
@@ -51,8 +50,7 @@
         "secondary": {
           "default": {
             "value": "{color.blue.30}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.content.action.secondary.default}",
@@ -99,8 +97,7 @@
         "tertiary": {
           "default": {
             "value": "{color.blue.10}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.content.action.tertiary.default}",
@@ -728,8 +725,7 @@
         "outsider": {
           "default": {
             "value": "{color.absolute.white}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.content.neutral.outsider.default}",
@@ -823,8 +819,7 @@
         "black": {
           "default": {
             "value": "{color.absolute.black}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.content.state.black.default}",
@@ -927,8 +922,7 @@
         "primary": {
           "default": {
             "value": "{color.blue.70}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.bg.action.primary.default}",
@@ -973,8 +967,7 @@
         "secondary": {
           "default": {
             "value": "{color.blue.30}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.bg.action.secondary.default}",
@@ -1021,8 +1014,7 @@
         "tertiary": {
           "default": {
             "value": "{color.blue.10}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.bg.action.tertiary.default}",
@@ -1650,8 +1642,7 @@
         "outsider": {
           "default": {
             "value": "{color.absolute.white}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.bg.neutral.outsider.default}",
@@ -1745,8 +1736,7 @@
         "black": {
           "default": {
             "value": "{color.absolute.black}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.bg.state.black.default}",
@@ -1797,8 +1787,7 @@
         "primary": {
           "default": {
             "value": "{color.blue.70}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.border.action.primary.default}",
@@ -1843,8 +1832,7 @@
         "secondary": {
           "default": {
             "value": "{color.blue.30}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.border.action.secondary.default}",
@@ -1891,8 +1879,7 @@
         "tertiary": {
           "default": {
             "value": "{color.blue.10}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.border.action.tertiary.default}",
@@ -2520,8 +2507,7 @@
         "outsider": {
           "default": {
             "value": "{color.absolute.white}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.border.neutral.outsider.default}",
@@ -2613,8 +2599,7 @@
         "black": {
           "default": {
             "value": "{color.absolute.black}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           },
           "hover": {
             "value": "{color.border.state.black.default}",
