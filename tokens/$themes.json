@@ -5,7 +5,8 @@
     "group": "Theme",
     "selectedTokenSets": {
       "Global": "source",
-      "Theme/Light": "enabled"
+      "Theme/Light": "enabled",
+      "Type/Mobile": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:71f49889affc20b0cc39fbb93580c9093aecd5d4,",
@@ -618,7 +619,8 @@
     "name": "Dark",
     "selectedTokenSets": {
       "Global": "source",
-      "Theme/Dark": "enabled"
+      "Theme/Dark": "enabled",
+      "Type/Mobile": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:fa953bdf6d63abc067fb9eba5c8fb4d4b60f1750,",
@@ -913,7 +915,8 @@
     "name": "Global",
     "group": "Core",
     "selectedTokenSets": {
-      "Global": "enabled"
+      "Global": "enabled",
+      "Type/Mobile": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.orange": "S:6c9e1741ef9ab7b9a9771566b66eb66b2f860c6e,",
@@ -1240,7 +1243,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Global": "enabled",
-      "Type/Desktop": "enabled"
+      "Type/Desktop": "enabled",
+      "Type/Mobile": "disabled"
     },
     "group": "Type"
   },
@@ -1250,7 +1254,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Global": "enabled",
-      "Type/Mobile": "enabled"
+      "Type/Mobile": "disabled"
     },
     "group": "Type"
   }
