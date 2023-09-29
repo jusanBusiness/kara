@@ -817,7 +817,7 @@
         "value": "500",
         "type": "fontWeights"
       },
-      "semi-bold": {
+      "demi-bold": {
         "value": "600",
         "type": "fontWeights"
       }
