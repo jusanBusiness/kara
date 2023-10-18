@@ -1304,9 +1304,39 @@
   {
     "id": "5ad72e8bd30c39cdd5df4fa3f14a9bbd33ebecf3",
     "name": "Mobile",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "type.title.large": "S:8b7b8475b31f10f3d0532b7ac2532817fdd8d3c7,",
+      "type.title.medium": "S:d5619920cd9801c8614c2558b439808162f1185c,",
+      "type.title.small": "S:8f5a66e92b1e2885f7ba423a42a75f2e6de0d2c1,",
+      "type.title.xsmall": "S:a6a22f73a16838f3d7d490a0592df7ca90885e09,",
+      "type.subtitle.large": "S:399d1b2c7ba0e4653b0007227c8fa01f166fd4b3,",
+      "type.subtitle.medium": "S:dde9773cc1314bfe34fe34133a95a044032a41a9,",
+      "type.subtitle.small": "S:fe96ccb7ef83cccb6164f6056fda4cfa47bc5cac,",
+      "type.subtitle.xsmall": "S:caef7069e1f075dbbc100d5409aecc7a6079c8e5,",
+      "type.paragraph.default.large": "S:2f71c1ccd6b9040b49b4d0636982cc231f36b1eb,",
+      "type.paragraph.default.medium": "S:7843cb646783504db3da6b16f49127cd780757cf,",
+      "type.paragraph.default.small": "S:f5e3a3897c55dd42642efeebc3472602f06f2a27,",
+      "type.paragraph.default.xsmall": "S:9892477763579a405ad281dc541261be07844c10,",
+      "type.paragraph.accent.large": "S:4cd56e60d6848c118ea8a6eeda62de2605869c57,",
+      "type.paragraph.accent.medium": "S:35d0db60e0f61fba0f4eb52d33a806dd3ff326e6,",
+      "type.paragraph.accent.small": "S:bd329d157f591ed9233406550c97f3bf03b3596b,",
+      "type.paragraph.accent.xsmall": "S:6a7fa0a66e1b0bafd24c61cd77580a3d6b1a9edb,",
+      "type.base.default.large": "S:26eab9136bc586b9286dfad47b999c4ada659ae6,",
+      "type.base.default.medium": "S:741663e9a1a0e65ed98b92554394a862cc2170cc,",
+      "type.base.default.small": "S:e23de6a9f7f488807057f9dfeb518f6f9dd941f8,",
+      "type.base.default.xsmall": "S:6c3734f140ad11737719196b3da0a43a5497a2c0,",
+      "type.base.accent.large": "S:f851b435f4e2003be8b31a437b04900ff1e7b440,",
+      "type.base.accent.medium": "S:1283c656da844ffe33b5e4bc8526f7e8c0a7b0e1,",
+      "type.base.accent.small": "S:9a87879b63100a9273848aa52ef0b7a28133bc38,",
+      "type.base.accent.xsmall": "S:60d7bf982486859e542d465d92b97f861a08f40c,",
+      "type.mono.large": "S:ce8f8fb43c0223789bdb77bc81f1ffc3ff3af3ca,",
+      "type.mono.medium": "S:131f11612594b9f5da12399cc9336271d7f7e801,",
+      "type.mono.small": "S:498a083eea81cc739bcf0317230bcbbde69bc8c2,",
+      "type.mono.xsmall": "S:39d1aa1b68c75232772d214742d91a41285da348,"
+    },
     "selectedTokenSets": {
-      "Global": "enabled"
+      "Global": "enabled",
+      "Type/Mobile": "enabled"
     },
     "group": "Type"
   }
