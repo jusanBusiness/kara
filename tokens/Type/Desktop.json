@@ -273,6 +273,15 @@
       }
     },
     "mono": {
+      "xlarge": {
+        "value": {
+          "fontFamily": "{font.family.jb-mono}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.desktop.xlarge}",
+          "lineHeight": "40px"
+        },
+        "type": "typography"
+      },
       "large": {
         "value": {
           "fontFamily": "{font.family.jb-mono}",
