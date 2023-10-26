@@ -5,7 +5,7 @@
         "large": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.demi-bold}",
+            "fontWeight": "{font.weight.medium}",
             "fontSize": "{font.size.desktop.xlarge}",
             "lineHeight": "44px"
           },
@@ -14,7 +14,7 @@
         "medium": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.demi-bold}",
+            "fontWeight": "{font.weight.medium}",
             "fontSize": "{font.size.desktop.large}",
             "lineHeight": "33px"
           },
@@ -23,7 +23,7 @@
         "small": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.demi-bold}",
+            "fontWeight": "{font.weight.medium}",
             "fontSize": "{font.size.desktop.xmedium}",
             "lineHeight": "28px"
           },
@@ -32,7 +32,7 @@
         "xsmall": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.demi-bold}",
+            "fontWeight": "{font.weight.medium}",
             "fontSize": "{font.size.desktop.base}",
             "lineHeight": "22px"
           },
@@ -43,7 +43,7 @@
         "large": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.medium}",
+            "fontWeight": "{font.weight.demi-bold}",
             "fontSize": "{font.size.desktop.xlarge}",
             "lineHeight": "44px"
           },
@@ -52,7 +52,7 @@
         "medium": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.medium}",
+            "fontWeight": "{font.weight.demi-bold}",
             "fontSize": "{font.size.desktop.large}",
             "lineHeight": "33px"
           },
@@ -61,7 +61,7 @@
         "small": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.medium}",
+            "fontWeight": "{font.weight.demi-bold}",
             "fontSize": "{font.size.desktop.xmedium}",
             "lineHeight": "28px"
           },
@@ -70,7 +70,7 @@
         "xsmall": {
           "value": {
             "fontFamily": "{font.family.jb-sans}",
-            "fontWeight": "{font.weight.medium}",
+            "fontWeight": "{font.weight.demi-bold}",
             "fontSize": "{font.size.desktop.base}",
             "lineHeight": "22px"
           },
