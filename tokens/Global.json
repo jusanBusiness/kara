@@ -775,33 +775,65 @@
       }
     },
     "size": {
-      "little": {
-        "value": "0.75rem",
-        "type": "fontSizes"
+      "desktop": {
+        "little": {
+          "value": "0.75rem",
+          "type": "fontSizes"
+        },
+        "small": {
+          "value": "0.875rem",
+          "type": "fontSizes"
+        },
+        "base": {
+          "value": "1rem",
+          "type": "fontSizes"
+        },
+        "medium": {
+          "value": "1.1875rem",
+          "type": "fontSizes"
+        },
+        "xmedium": {
+          "value": "1.375rem",
+          "type": "fontSizes"
+        },
+        "large": {
+          "value": "1.6875rem",
+          "type": "fontSizes"
+        },
+        "xlarge": {
+          "value": "2.375rem",
+          "type": "fontSizes"
+        }
       },
-      "small": {
-        "value": "0.875rem",
-        "type": "fontSizes"
-      },
-      "base": {
-        "value": "1rem",
-        "type": "fontSizes"
-      },
-      "medium": {
-        "value": "1.1875rem",
-        "type": "fontSizes"
-      },
-      "xmedium": {
-        "value": "1.375rem",
-        "type": "fontSizes"
-      },
-      "large": {
-        "value": "1.6875rem",
-        "type": "fontSizes"
-      },
-      "xlarge": {
-        "value": "2.375rem",
-        "type": "fontSizes"
+      "mobile": {
+        "little": {
+          "value": "0.8125rem",
+          "type": "fontSizes"
+        },
+        "small": {
+          "value": "0.875rem",
+          "type": "fontSizes"
+        },
+        "base": {
+          "value": "1.0625rem",
+          "type": "fontSizes"
+        },
+        "medium": {
+          "value": "1.1875rem",
+          "type": "fontSizes"
+        },
+        "xmedium": {
+          "value": "1.5rem",
+          "type": "fontSizes"
+        },
+        "large": {
+          "value": "2rem",
+          "type": "fontSizes"
+        },
+        "xlarge": {
+          "value": "2.375rem",
+          "type": "fontSizes"
+        }
       }
     },
     "weight": {

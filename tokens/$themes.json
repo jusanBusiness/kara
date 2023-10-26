@@ -1335,8 +1335,7 @@
       "type.mono.xsmall": "S:39d1aa1b68c75232772d214742d91a41285da348,"
     },
     "selectedTokenSets": {
-      "Global": "enabled",
-      "Type/Mobile": "enabled"
+      "Global": "enabled"
     },
     "group": "Type"
   }
