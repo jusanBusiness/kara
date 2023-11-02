@@ -9,7 +9,6 @@ let package = Package(
         .library(name: "DesignSystem",targets: ["DesignSystem"])
     ],
     targets: [
-        .target(name: "DesignSystem"),
-        .testTarget(name: "DesignSystemTests",dependencies: ["DesignSystem"])
+        .target(name: "DesignSystem", path: "Sources/"),
     ]
 )
