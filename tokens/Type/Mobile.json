@@ -296,7 +296,7 @@
           "fontFamily": "{font.family.jb-mono}",
           "fontWeight": "{font.weight.regular}",
           "fontSize": "{font.size.mobile.base}",
-          "lineHeight": "24px"
+          "lineHeight": "20px"
         },
         "type": "typography"
       },
@@ -305,7 +305,7 @@
           "fontFamily": "{font.family.jb-mono}",
           "fontWeight": "{font.weight.regular}",
           "fontSize": "{font.size.mobile.small}",
-          "lineHeight": "22px"
+          "lineHeight": "18px"
         },
         "type": "typography"
       },
@@ -314,7 +314,7 @@
           "fontFamily": "{font.family.jb-mono}",
           "fontWeight": "{font.weight.regular}",
           "fontSize": "{font.size.mobile.little}",
-          "lineHeight": "19px"
+          "lineHeight": "16px"
         },
         "type": "typography"
       }
