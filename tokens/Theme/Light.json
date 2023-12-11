@@ -921,7 +921,7 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.warm-red.60}",
             "type": "color"
           },
           "hover": {
@@ -966,7 +966,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.blue.30}",
+            "value": "{color.warm-red.40}",
             "type": "color"
           },
           "hover": {
@@ -978,7 +978,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.warm-red.120}"
                 }
               }
             }
@@ -992,7 +992,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.warm-red.120}"
                 }
               }
             }
@@ -1013,7 +1013,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.warm-red.20}",
             "type": "color"
           },
           "hover": {
@@ -1025,7 +1025,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.90} "
+                  "color": "{color.warm-red.90} "
                 }
               }
             }
@@ -1039,7 +1039,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.100} "
+                  "color": "{color.warm-red.100} "
                 }
               }
             }
@@ -1786,7 +1786,7 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.warm-red.60}",
             "type": "color"
           },
           "hover": {
@@ -1831,7 +1831,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.blue.30}",
+            "value": "{color.warm-red.40}",
             "type": "color"
           },
           "hover": {
@@ -1843,7 +1843,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.warm-red.120}"
                 }
               }
             }
@@ -1857,7 +1857,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.warm-red.120}"
                 }
               }
             }
@@ -1878,7 +1878,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.warm-red.20}",
             "type": "color"
           },
           "hover": {
@@ -1890,7 +1890,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.90} "
+                  "color": "{color.warm-red.90}"
                 }
               }
             }
@@ -1904,7 +1904,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.100} "
+                  "color": "{color.warm-red.100}"
                 }
               }
             }
