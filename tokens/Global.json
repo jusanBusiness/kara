@@ -774,9 +774,8 @@
     "container": {
       "margin": {
         "lg": {
-          "value": "0px",
-          "type": "other",
-          "description": "Don't change this token"
+          "value": "32px",
+          "type": "other"
         },
         "md": {
           "value": "24px",
