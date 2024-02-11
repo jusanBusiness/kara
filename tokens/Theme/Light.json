@@ -959,7 +959,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.blue.20}",
             "type": "color"
           },
           "hover": {
@@ -2017,7 +2017,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.blue.20}",
             "type": "color"
           },
           "hover": {
