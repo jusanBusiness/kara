@@ -865,7 +865,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {
@@ -1008,7 +1008,7 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.blue.80}",
             "type": "color"
           },
           "hover": {
@@ -1905,7 +1905,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {
@@ -2048,7 +2048,7 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.blue.80}",
             "type": "color"
           },
           "hover": {
@@ -2909,7 +2909,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {

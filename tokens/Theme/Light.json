@@ -428,7 +428,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.50}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
@@ -475,7 +475,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.yellow.40}",
             "type": "color"
           },
           "hover": {
@@ -522,7 +522,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.10}",
+            "value": "{color.yellow.20}",
             "type": "color"
           },
           "hover": {
@@ -867,7 +867,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {
@@ -1486,7 +1486,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.50}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
@@ -1533,7 +1533,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.yellow.40}",
             "type": "color"
           },
           "hover": {
@@ -1580,7 +1580,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.10}",
+            "value": "{color.yellow.20}",
             "type": "color"
           },
           "hover": {
@@ -1925,7 +1925,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {
@@ -2492,7 +2492,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.50}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
@@ -2539,7 +2539,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.yellow.40}",
             "type": "color"
           },
           "hover": {
@@ -2586,7 +2586,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.10}",
+            "value": "{color.yellow.20}",
             "type": "color"
           },
           "hover": {
@@ -2929,7 +2929,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.blue.70}",
             "type": "color"
           },
           "hover": {
@@ -3021,7 +3021,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.blue.20}",
             "type": "color"
           },
           "hover": {
