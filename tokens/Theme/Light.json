@@ -777,7 +777,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.state.white.default}",
+            "value": "{color.content.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -790,7 +790,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.state.white.default}",
+            "value": "{color.content.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -803,7 +803,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.state.white.default}",
+            "value": "{color.content.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -822,7 +822,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.state.black.default}",
+            "value": "{color.content.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -836,7 +836,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.state.black.default}",
+            "value": "{color.content.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -850,7 +850,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.state.black.default}",
+            "value": "{color.content.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1828,14 +1828,14 @@
           }
         }
       },
-      "state": {
+      "static": {
         "white": {
           "default": {
             "value": "{color.absolute.white}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.state.white.default}",
+            "value": "{color.bg.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1848,7 +1848,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.state.white.default}",
+            "value": "{color.bg.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1861,7 +1861,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.state.white.default}",
+            "value": "{color.bg.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1880,7 +1880,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.state.black.default}",
+            "value": "{color.bg.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1894,7 +1894,7 @@
             }
           },
           "pressed": {
-            "value": "{color.bg.state.black.default}",
+            "value": "{color.bg.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1908,7 +1908,7 @@
             }
           },
           "disabled": {
-            "value": "{color.bg.state.black.default}",
+            "value": "{color.bg.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2832,14 +2832,14 @@
           }
         }
       },
-      "state": {
+      "static": {
         "white": {
           "default": {
             "value": "{color.absolute.white}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.border.state.white.default}",
+            "value": "{color.border.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2852,7 +2852,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.state.white.default}",
+            "value": "{color.border.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2865,7 +2865,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.state.white.default}",
+            "value": "{color.border.static.white.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2884,7 +2884,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.border.state.black.default}",
+            "value": "{color.border.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2898,7 +2898,7 @@
             }
           },
           "pressed": {
-            "value": "{color.border.state.black.default}",
+            "value": "{color.border.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2912,7 +2912,7 @@
             }
           },
           "disabled": {
-            "value": "{color.border.state.black.default}",
+            "value": "{color.border.static.black.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
