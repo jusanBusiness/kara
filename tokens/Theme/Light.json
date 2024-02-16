@@ -475,7 +475,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.40}",
+            "value": "{color.yellow.30}",
             "type": "color"
           },
           "hover": {
