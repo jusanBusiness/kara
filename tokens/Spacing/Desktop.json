@@ -1,0 +1,32 @@
+{
+  "container": {
+    "gap": {
+      "sm": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{space.4}",
+        "type": "spacing"
+      }
+    },
+    "padding": {
+      "sm": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{space.5}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{space.5}",
+        "type": "spacing"
+      }
+    }
+  }
+}

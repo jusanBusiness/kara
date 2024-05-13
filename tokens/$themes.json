@@ -3,7 +3,8 @@
     "id": "b11e425c944aa41b95477d560f7c016a837905be",
     "name": "Global",
     "selectedTokenSets": {
-      "Global": "enabled"
+      "Global": "enabled",
+      "Spacing/Desktop": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.orange": "S:6c9e1741ef9ab7b9a9771566b66eb66b2f860c6e,",
@@ -328,7 +329,8 @@
     "name": "Light",
     "selectedTokenSets": {
       "Global": "source",
-      "Theme/Light": "enabled"
+      "Theme/Light": "enabled",
+      "Spacing/Desktop": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:71f49889affc20b0cc39fbb93580c9093aecd5d4,",
@@ -978,7 +980,8 @@
     "name": "Dark",
     "selectedTokenSets": {
       "Global": "source",
-      "Theme/Dark": "enabled"
+      "Theme/Dark": "enabled",
+      "Spacing/Desktop": "disabled"
     },
     "$figmaStyleReferences": {
       "color.text.action": "S:fa953bdf6d63abc067fb9eba5c8fb4d4b60f1750,",
@@ -1367,7 +1370,8 @@
     },
     "selectedTokenSets": {
       "Global": "enabled",
-      "Type/Desktop": "enabled"
+      "Type/Desktop": "enabled",
+      "Spacing/Desktop": "disabled"
     },
     "group": "Type",
     "$figmaCollectionId": "VariableCollectionId:3539:6762",
@@ -1589,7 +1593,8 @@
     },
     "selectedTokenSets": {
       "Global": "enabled",
-      "Type/Mobile": "enabled"
+      "Type/Mobile": "enabled",
+      "Spacing/Desktop": "disabled"
     },
     "group": "Type",
     "$figmaCollectionId": "VariableCollectionId:3539:6762",
