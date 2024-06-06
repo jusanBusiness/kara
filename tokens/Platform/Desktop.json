@@ -319,5 +319,85 @@
         "type": "typography"
       }
     }
+  },
+  "container": {
+    "gap": {
+      "sm": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{space.4}",
+        "type": "spacing"
+      }
+    },
+    "padding": {
+      "sm": {
+        "value": "{space.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{space.5}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{space.5}",
+        "type": "spacing"
+      }
+    }
+  },
+  "grid": {
+    "gap": {
+      "lg": {
+        "value": "{space.5}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "16px",
+        "type": "spacing"
+      }
+    },
+    "container": {
+      "margin": {
+        "lg": {
+          "value": "32px",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "24px",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "16px",
+          "type": "spacing"
+        }
+      },
+      "max-width": {
+        "value": "796px",
+        "type": "spacing"
+      }
+    },
+    "breakpoint": {
+      "lg": {
+        "value": "≥992px",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "<992px",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "≤576px",
+        "type": "spacing"
+      }
+    }
   }
 }

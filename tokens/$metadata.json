@@ -3,8 +3,7 @@
     "Global",
     "Theme/Light",
     "Theme/Dark",
-    "Spacing/Desktop",
-    "Type/Desktop",
-    "Type/Mobile"
+    "Platform/Desktop",
+    "Platform/Mobile"
   ]
 }

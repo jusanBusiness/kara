@@ -702,56 +702,6 @@
       "description": "21.02.23 We use it only for scroll-bar"
     }
   },
-  "grid": {
-    "gap": {
-      "lg": {
-        "value": "20px",
-        "type": "other"
-      },
-      "md": {
-        "value": "16px",
-        "type": "other"
-      },
-      "sm": {
-        "value": "16px",
-        "type": "other"
-      }
-    },
-    "container": {
-      "margin": {
-        "lg": {
-          "value": "32px",
-          "type": "other"
-        },
-        "md": {
-          "value": "24px",
-          "type": "other"
-        },
-        "sm": {
-          "value": "16px",
-          "type": "other"
-        }
-      },
-      "max-width": {
-        "value": "796px",
-        "type": "other"
-      }
-    },
-    "breakpoint": {
-      "lg": {
-        "value": "≥992px",
-        "type": "other"
-      },
-      "md": {
-        "value": "<992px",
-        "type": "other"
-      },
-      "sm": {
-        "value": "≤576px",
-        "type": "other"
-      }
-    }
-  },
   "border": {
     "hairline": {
       "value": "1px",
