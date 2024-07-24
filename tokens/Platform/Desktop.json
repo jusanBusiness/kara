@@ -78,6 +78,35 @@
         }
       }
     },
+    "display": {
+      "large": {
+        "value": {
+          "fontFamily": "{font.family.jb-sans}",
+          "fontWeight": "{font.weight.black}",
+          "fontSize": "88px",
+          "lineHeight": "100px"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font.family.jb-sans}",
+          "fontWeight": "{font.weight.black}",
+          "fontSize": "48px",
+          "lineHeight": "52px"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font.family.jb-sans}",
+          "fontWeight": "{font.weight.black}",
+          "fontSize": "32px",
+          "lineHeight": "36px"
+        },
+        "type": "typography"
+      }
+    },
     "subtitle": {
       "large": {
         "value": {

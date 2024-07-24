@@ -801,6 +801,10 @@
       "demi-bold": {
         "value": "600",
         "type": "fontWeights"
+      },
+      "black": {
+        "value": "800",
+        "type": "fontWeights"
       }
     }
   }
