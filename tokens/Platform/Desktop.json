@@ -381,6 +381,10 @@
   },
   "grid": {
     "gap": {
+      "xl": {
+        "value": "{space.6}",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{space.5}",
         "type": "spacing"
@@ -410,11 +414,15 @@
         }
       },
       "max-width": {
-        "value": "796px",
+        "value": "1032px",
         "type": "spacing"
       }
     },
     "breakpoint": {
+      "xl": {
+        "value": "≥1032px",
+        "type": "spacing"
+      },
       "lg": {
         "value": "≥992px",
         "type": "spacing"
