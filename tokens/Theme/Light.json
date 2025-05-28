@@ -4,34 +4,16 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.orange.60}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.18",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.70}",
+            "type": "color"
           },
           "pressed": {
-            "value": "{color.content.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.28",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.80}",
+            "type": "color"
           },
           "disabled": {
             "value": "{color.content.action.primary.default}",
@@ -49,7 +31,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.orange.40}",
+            "value": "{color.yellow.40}",
             "type": "color"
           },
           "hover": {
@@ -96,7 +78,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.orange.20}",
+            "value": "{color.yellow.20}",
             "type": "color"
           },
           "hover": {
@@ -428,7 +410,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.60}",
+            "value": "{color.orange.60}",
             "type": "color"
           },
           "hover": {
@@ -475,7 +457,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.30}",
+            "value": "{color.orange.30}",
             "type": "color"
           },
           "hover": {
@@ -522,7 +504,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.orange.20}",
             "type": "color"
           },
           "hover": {
@@ -1008,15 +990,15 @@
       "accent": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
-            "type": "color"
-          },
-          "hover": {
             "value": "{color.blue.80}",
             "type": "color"
           },
-          "pressed": {
+          "hover": {
             "value": "{color.blue.90}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.100}",
             "type": "color"
           },
           "disabled": {
