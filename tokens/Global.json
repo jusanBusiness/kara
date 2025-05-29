@@ -2,7 +2,7 @@
   "color": {
     "brand": {
       "orange": {
-        "value": "#FF6700",
+        "value": "{color.yellow.80}",
         "type": "color"
       },
       "blackbird": {
