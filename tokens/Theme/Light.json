@@ -849,7 +849,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.blue.80}",
             "type": "color"
           },
           "hover": {
@@ -1918,7 +1918,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.blue.80}",
             "type": "color"
           },
           "hover": {
@@ -2059,15 +2059,15 @@
       "accent": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
-            "type": "color"
-          },
-          "hover": {
             "value": "{color.blue.80}",
             "type": "color"
           },
-          "pressed": {
+          "hover": {
             "value": "{color.blue.90}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.100}",
             "type": "color"
           },
           "disabled": {
@@ -2951,7 +2951,7 @@
       "info": {
         "primary": {
           "default": {
-            "value": "{color.blue.70}",
+            "value": "{color.blue.80}",
             "type": "color"
           },
           "hover": {
