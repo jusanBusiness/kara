@@ -184,23 +184,23 @@
     },
     "orange": {
       "10": {
-        "value": "#feede0",
+        "value": "#fdeedb",
         "type": "color"
       },
       "20": {
-        "value": "#fedabe",
+        "value": "#fcdcb2",
         "type": "color"
       },
       "30": {
-        "value": "#fec396",
+        "value": "#fbc77c",
         "type": "color"
       },
       "40": {
-        "value": "#fdac6b",
+        "value": "#fda944",
         "type": "color"
       },
       "50": {
-        "value": "#fe9530",
+        "value": "#f8991b",
         "type": "color"
       },
       "60": {
