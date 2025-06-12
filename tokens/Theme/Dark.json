@@ -4,34 +4,16 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.18",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.70}",
+            "type": "color"
           },
           "pressed": {
-            "value": "{color.content.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.28",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.80}",
+            "type": "color"
           },
           "disabled": {
             "value": "{color.content.action.primary.default}",
@@ -49,7 +31,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.blue.30}",
+            "value": "{color.yellow.30}",
             "type": "color"
           },
           "hover": {
@@ -61,7 +43,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.orange.120}"
                 }
               }
             }
@@ -75,7 +57,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.orange.120}"
                 }
               }
             }
@@ -96,7 +78,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.10}",
+            "value": "{color.yellow.10}",
             "type": "color"
           },
           "hover": {
@@ -108,7 +90,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.90} "
+                  "color": "{color.orange.90} "
                 }
               }
             }
@@ -122,7 +104,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.100} "
+                  "color": "{color.orange.100} "
                 }
               }
             }
@@ -428,7 +410,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.50}",
+            "value": "{color.orange.50}",
             "type": "color"
           },
           "hover": {
@@ -869,7 +851,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -882,7 +864,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -895,7 +877,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -914,7 +896,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -928,7 +910,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -942,7 +924,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -961,7 +943,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -975,7 +957,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -989,7 +971,36 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "primary": {
+          "default": {
+            "value": "{color.blue.70}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.blue.80}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.90}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.blue.70}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1008,34 +1019,16 @@
       "action": {
         "primary": {
           "default": {
-            "value": "{color.blue.80}",
+            "value": "{color.yellow.60}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.bg.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.18",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.70}",
+            "type": "color"
           },
           "pressed": {
-            "value": "{color.bg.action.primary.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "0.28",
-                  "space": "lch"
-                }
-              }
-            }
+            "value": "{color.yellow.80}",
+            "type": "color"
           },
           "disabled": {
             "value": "{color.bg.action.primary.default}",
@@ -1053,7 +1046,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.blue.30}",
+            "value": "{color.yellow.30}",
             "type": "color"
           },
           "hover": {
@@ -1065,7 +1058,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.orange.120}"
                 }
               }
             }
@@ -1079,7 +1072,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.120}"
+                  "color": "{color.orange.120}"
                 }
               }
             }
@@ -1100,7 +1093,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.60}",
+            "value": "{color.yellow.60}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1121,7 +1114,7 @@
                   "type": "mix",
                   "value": "0.1",
                   "space": "lch",
-                  "color": "{color.blue.90} "
+                  "color": "{color.orange.90} "
                 }
               }
             }
@@ -1135,7 +1128,7 @@
                   "type": "mix",
                   "value": "0.2",
                   "space": "lch",
-                  "color": "{color.blue.100} "
+                  "color": "{color.orange.100} "
                 }
               }
             }
@@ -1459,7 +1452,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.30}",
+            "value": "{color.orange.50}",
             "type": "color"
           },
           "hover": {
@@ -1506,7 +1499,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.orange.20}",
             "type": "color"
           },
           "hover": {
@@ -1553,7 +1546,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.60}",
+            "value": "{color.orange.60}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -1997,13 +1990,13 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.blue.20}",
+            "value": "{color.blue.70}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.5",
+                  "value": "0.2",
                   "space": "lch"
                 }
               }
@@ -2039,6 +2032,35 @@
           },
           "disabled": {
             "value": "{color.bg.info.tertiary.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "primary": {
+          "default": {
+            "value": "{color.blue.70}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.blue.80}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.90}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.blue.70}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2339,7 +2361,7 @@
       "negative": {
         "primary": {
           "default": {
-            "value": "{color.red.80}",
+            "value": "{color.red.70}",
             "type": "color"
           },
           "hover": {
@@ -2481,7 +2503,7 @@
       "warning": {
         "primary": {
           "default": {
-            "value": "{color.yellow.30}",
+            "value": "{color.orange.50}",
             "type": "color"
           },
           "hover": {
@@ -2528,7 +2550,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.yellow.20}",
+            "value": "{color.orange.30}",
             "type": "color"
           },
           "hover": {
@@ -2575,7 +2597,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{color.yellow.10}",
+            "value": "{color.orange.10}",
             "type": "color"
           },
           "hover": {
@@ -2922,7 +2944,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2935,7 +2957,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2948,7 +2970,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.primary.default}",
+            "value": "{color.content.info.primary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2967,7 +2989,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2981,7 +3003,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -2995,7 +3017,7 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.secondary.default}",
+            "value": "{color.content.info.secondary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -3014,7 +3036,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -3028,7 +3050,7 @@
             }
           },
           "pressed": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
@@ -3042,7 +3064,36 @@
             }
           },
           "disabled": {
-            "value": "{color.content.action.tertiary.default}",
+            "value": "{color.content.info.tertiary.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "primary": {
+          "default": {
+            "value": "{color.blue.70}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.blue.80}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.blue.90}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.blue.70}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
